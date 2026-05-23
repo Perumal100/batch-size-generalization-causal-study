@@ -1,8 +1,7 @@
 # 🧠 Batch Size & Deep Neural Network Generalization — A Controlled Causal Study
 
 > **Course:** Foundations of Data Science
-> **Authors:** Bhavith Chandra Challagundla, Perumal Marimuthu, Astha Vairat, Vritika Srivastava
-> **Date:** December 7, 2025
+> **Authors:** Perumal Marimuthu
 
 ---
 
@@ -150,23 +149,6 @@ jupyter notebook "Data Science Project.ipynb"
 3. Kumar, S. et al. (2021). *Revisiting Small Batch Training for Deep Neural Networks.* https://arxiv.org/abs/2009.02358
 4. PyMC Development Team (2023). *PyMC: Bayesian Statistical Modeling.* https://www.pymc.io
 5. Kumar, R. et al. (2016). *ArviZ: Exploratory Analysis of Bayesian Models.* https://arviz-devs.github.io/arviz/
-
----
-
-## 👥 Team Contributions
-
-| Section | Contributors |
-|---|---|
-| Proposal | Perumal Marimuthu, Bhavith Chandra |
-| Introduction | Bhavith Chandra |
-| Causal Model | Bhavith Chandra, Perumal Marimuthu |
-| Statistical Model | Perumal Marimuthu, Bhavith Chandra |
-| Model Validation (Simulated) | Perumal Marimuthu |
-| Data Preparation | Perumal Marimuthu, Astha Vairat |
-| Posterior Analysis | Astha Vairat, Vritika Srivastava |
-| Posterior Predictive Checks | Astha Vairat |
-| Discussion & Conclusion | Vritika Srivastava |
-| Future Work | Perumal Marimuthu, Bhavith Chandra, Vritika Srivastava |
 
 ---
 
