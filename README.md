@@ -1,6 +1,4 @@
 # 🧠 Batch Size & Deep Neural Network Generalization — A Controlled Causal Study
-
-> **Course:** Foundations of Data Science
 > **Authors:** Perumal Marimuthu
 
 ---
