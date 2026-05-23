@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large media files (use Google Drive or YouTube for video sharing)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Data / model outputs
+*.h5
+*.pkl
+*.pt
+*.pth
+*.npy
+*.npz
+/data/
+/outputs/
+/models/
+
+# PyMC / ArviZ cache
+/tmp/
+*.nc
+
+# Upload script (contains credentials)
+upload_to_github.ps1
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
