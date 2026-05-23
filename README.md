@@ -1,5 +1,5 @@
 # 🧠 Batch Size & Deep Neural Network Generalization — A Controlled Causal Study
-> **Authors:** Perumal Marimuthu
+> **Author:** Perumal Marimuthu
 
 ---
 
